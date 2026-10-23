@@ -9,13 +9,13 @@ app.use(logger)
 app.use(express.json())
 
 app.get('/', (req, res) => {
-    const limit = req.query.limit
+    const limit = req.query.limit // greift auf die query parameter in der url zu ?limit=4
     console.log(limit)
     if (limit) {
         const erg = jrpgs.slice(0, +limit)
         res.json(erg)
-    }
-    res.json(jrpgs)
+    } else
+        res.json(jrpgs)
 })
 app.post('/', (req, res) => {
 
@@ -26,7 +26,7 @@ app.post('/', (req, res) => {
     res.json(req.body)
 })
 
-app.delete('/:id', (req, res) => {
+app.delete('/:id', (req, res) => {   // :id ist ein dynamischer parameter einer route. /7 /4 /alles ist da valide und dann über das req.params object nutzbar
     const id = req.params.id
     const freshJrpgs = jrpgs.filter((ele) => ele.id != id)
     writeFile('./data/jrpgs.json', JSON.stringify(freshJrpgs, null, 2))
