@@ -1,0 +1,676 @@
+[
+  {
+    "id": 3,
+    "title": "Final Fantasy XII",
+    "releaseYear": 2006,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "subgenre": "Fantasy JRPG",
+    "combatSystem": "Echtzeitnahes Kampfsystem mit Gambit-Automatisierung",
+    "setting": "Ivalice",
+    "multiplayer": false,
+    "description": "Eine Gruppe gerät in einen politischen Konflikt zwischen den Reichen Dalmasca und Archadia."
+  },
+  {
+    "id": 4,
+    "title": "Final Fantasy XV",
+    "releaseYear": 2016,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "Windows"
+    ],
+    "subgenre": "Action-JRPG",
+    "combatSystem": "Echtzeit-Action",
+    "setting": "Eos",
+    "multiplayer": false,
+    "description": "Prinz Noctis reist mit seinen Freunden durch Eos, während sein Königreich angegriffen wird."
+  },
+  {
+    "id": 5,
+    "title": "Final Fantasy XVI",
+    "releaseYear": 2023,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Action-JRPG",
+    "combatSystem": "Echtzeit-Action",
+    "setting": "Valisthea",
+    "multiplayer": false,
+    "description": "Clive Rosfield wird in einen Konflikt um mächtige Beschwörerwesen und magische Kristalle hineingezogen."
+  },
+  {
+    "id": 6,
+    "title": "Chrono Trigger",
+    "releaseYear": 1995,
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Super Nintendo",
+      "PlayStation",
+      "Nintendo DS",
+      "Windows",
+      "Android",
+      "iOS"
+    ],
+    "subgenre": "Zeitreise-JRPG",
+    "combatSystem": "Rundenbasiert mit Active Time Battle",
+    "setting": "Mehrere Epochen einer Fantasy-Welt",
+    "multiplayer": false,
+    "description": "Crono und seine Freunde reisen durch die Zeit, um eine globale Katastrophe zu verhindern."
+  },
+  {
+    "id": 7,
+    "title": "Dragon Quest XI: Streiter des Schicksals",
+    "releaseYear": 2017,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo 3DS",
+      "Nintendo Switch",
+      "Windows",
+      "Xbox One"
+    ],
+    "subgenre": "Fantasy JRPG",
+    "combatSystem": "Rundenbasiert",
+    "setting": "Erdrea",
+    "multiplayer": false,
+    "description": "Ein junger Held entdeckt seine Bestimmung und wird in eine Bedrohung für die Welt verwickelt."
+  },
+  {
+    "id": 8,
+    "title": "Dragon Quest VIII: Die Reise des verwunschenen Königs",
+    "releaseYear": 2004,
+    "developer": "Level-5",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 2",
+      "Nintendo 3DS"
+    ],
+    "subgenre": "Fantasy JRPG",
+    "combatSystem": "Rundenbasiert",
+    "setting": "Eine märchenhafte Fantasy-Welt",
+    "multiplayer": false,
+    "description": "Ein Held und seine Gefährten suchen nach einer Möglichkeit, einen Fluch über König und Prinzessin zu brechen."
+  },
+  {
+    "id": 9,
+    "title": "Persona 5 Royal",
+    "releaseYear": 2019,
+    "developer": "P-Studio",
+    "publisher": "Atlus",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Nintendo Switch",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Schul- und Dungeon-JRPG",
+    "combatSystem": "Rundenbasiert mit Persona-Fähigkeiten",
+    "setting": "Modernes Tokio und kognitive Paläste",
+    "multiplayer": false,
+    "description": "Die Phantom Thieves führen ein Doppelleben zwischen Schule und übernatürlichen Raubzügen."
+  },
+  {
+    "id": 10,
+    "title": "Persona 4 Golden",
+    "releaseYear": 2012,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "platforms": [
+      "PlayStation Vita",
+      "Windows",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Schul- und Mystery-JRPG",
+    "combatSystem": "Rundenbasiert",
+    "setting": "Die Kleinstadt Inaba und eine geheimnisvolle TV-Welt",
+    "multiplayer": false,
+    "description": "Eine Gruppe Jugendlicher untersucht rätselhafte Morde und stärkt zugleich ihre sozialen Bindungen."
+  },
+  {
+    "id": 11,
+    "title": "Persona 3 Reload",
+    "releaseYear": 2024,
+    "developer": "P-Studio",
+    "publisher": "Atlus",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Schul- und Dungeon-JRPG",
+    "combatSystem": "Rundenbasiert",
+    "setting": "Moderne Stadt mit der Dark Hour",
+    "multiplayer": false,
+    "description": "Mitglieder einer Schülergruppe erkunden den Tartarus und stellen sich einer verborgenen Stunde zwischen den Tagen."
+  },
+  {
+    "id": 12,
+    "title": "NieR: Automata",
+    "releaseYear": 2017,
+    "developer": "PlatinumGames",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 4",
+      "Windows",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Action-RPG",
+    "combatSystem": "Echtzeit-Action mit Bullet-Hell-Elementen",
+    "setting": "Postapokalyptische Erde",
+    "multiplayer": false,
+    "description": "Androiden kämpfen gegen Maschinen und entdecken nach und nach die Hintergründe des Krieges."
+  },
+  {
+    "id": 13,
+    "title": "Tales of Arise",
+    "releaseYear": 2021,
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Entertainment",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Action-JRPG",
+    "combatSystem": "Echtzeit-Kombokämpfe",
+    "setting": "Dahna und Rena",
+    "multiplayer": false,
+    "description": "Alphen und Shionne kämpfen gegen Unterdrückung und suchen nach einem Weg, die beiden Welten zu verändern."
+  },
+  {
+    "id": 14,
+    "title": "Tales of Vesperia: Definitive Edition",
+    "releaseYear": 2019,
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Entertainment",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Windows",
+      "Xbox One"
+    ],
+    "subgenre": "Fantasy JRPG",
+    "combatSystem": "Echtzeit-Kampfsystem",
+    "setting": "Terca Lumireis",
+    "multiplayer": true,
+    "description": "Yuri Lowell reist mit einer bunt gemischten Gruppe, um einen Konflikt um die Nutzung von Blastia aufzudecken."
+  },
+  {
+    "id": 15,
+    "title": "Xenoblade Chronicles: Definitive Edition",
+    "releaseYear": 2020,
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "subgenre": "Open-World-JRPG",
+    "combatSystem": "Echtzeit mit Abklingzeiten und Positionsboni",
+    "setting": "Die Körper zweier gigantischer Titanen",
+    "multiplayer": false,
+    "description": "Shulk und seine Freunde reisen über die Titanen Bionis und Mechonis und stellen sich einer drohenden Invasion."
+  },
+  {
+    "id": 16,
+    "title": "Xenoblade Chronicles 2",
+    "releaseYear": 2017,
+    "developer": "Monolith Soft",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "subgenre": "Open-World-JRPG",
+    "combatSystem": "Echtzeit mit Driver- und Blade-Kombos",
+    "setting": "Alrest",
+    "multiplayer": false,
+    "description": "Rex begleitet Pyra auf der Suche nach Elysium durch eine Welt, in der Menschen auf Titanen leben."
+  },
+  {
+    "id": 17,
+    "title": "Fire Emblem: Three Houses",
+    "releaseYear": 2019,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "subgenre": "Taktisches JRPG",
+    "combatSystem": "Rundenbasierte Rasterkämpfe",
+    "setting": "Fódlan",
+    "multiplayer": false,
+    "description": "Als Lehrkraft an einer Militärakademie prägt man die Entwicklung einer von drei rivalisierenden Häusergruppen."
+  },
+  {
+    "id": 18,
+    "title": "Fire Emblem Engage",
+    "releaseYear": 2023,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "subgenre": "Taktisches JRPG",
+    "combatSystem": "Rundenbasierte Rasterkämpfe",
+    "setting": "Elyos",
+    "multiplayer": false,
+    "description": "Der Drache Alear erwacht nach langer Zeit und sucht mit Verbündeten nach den Emblem-Ringen."
+  },
+  {
+    "id": 19,
+    "title": "The Legend of Heroes: Trails in the Sky",
+    "releaseYear": 2004,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "platforms": [
+      "Windows",
+      "PlayStation Portable"
+    ],
+    "subgenre": "Storylastiges JRPG",
+    "combatSystem": "Rundenbasiert mit Positionierung auf einem Raster",
+    "setting": "Königreich Liberl",
+    "multiplayer": false,
+    "description": "Estelle und Joshua Bright werden als angehende Bracer in eine weitreichende politische Verschwörung verwickelt."
+  },
+  {
+    "id": 20,
+    "title": "Trails of Cold Steel",
+    "releaseYear": 2013,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation Vita",
+      "Windows",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Schul- und Story-JRPG",
+    "combatSystem": "Rundenbasiert mit taktischer Positionierung",
+    "setting": "Erebonisches Kaiserreich",
+    "multiplayer": false,
+    "description": "Rean Schwarzer und seine Mitschüler der Klasse VII geraten in politische Spannungen des Kaiserreichs."
+  },
+  {
+    "id": 21,
+    "title": "Octopath Traveler",
+    "releaseYear": 2018,
+    "developer": "Acquire",
+    "publisher": "Square Enix",
+    "platforms": [
+      "Nintendo Switch",
+      "Windows",
+      "Xbox One",
+      "Stadia"
+    ],
+    "subgenre": "HD-2D-Retro-JRPG",
+    "combatSystem": "Rundenbasiert mit Boost- und Break-System",
+    "setting": "Orsterra",
+    "multiplayer": false,
+    "description": "Acht Reisende verfolgen eigene Ziele, deren Geschichten sich in einer gemeinsamen Welt entfalten."
+  },
+  {
+    "id": 22,
+    "title": "Octopath Traveler II",
+    "releaseYear": 2023,
+    "developer": "Acquire",
+    "publisher": "Square Enix",
+    "platforms": [
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows"
+    ],
+    "subgenre": "HD-2D-Retro-JRPG",
+    "combatSystem": "Rundenbasiert mit Boost-, Break- und Latent-Power-System",
+    "setting": "Solistia",
+    "multiplayer": false,
+    "description": "Acht neue Reisende erleben miteinander verbundene Geschichten in einer Welt zwischen Tradition und Industrialisierung."
+  },
+  {
+    "id": 23,
+    "title": "Bravely Default",
+    "releaseYear": 2012,
+    "developer": "Silicon Studio",
+    "publisher": "Square Enix",
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "subgenre": "Klassisches Fantasy-JRPG",
+    "combatSystem": "Rundenbasiert mit Brave- und Default-System",
+    "setting": "Luxendarc",
+    "multiplayer": false,
+    "description": "Vier Helden reisen, um die Elementarkristalle zu erwecken und das Gleichgewicht der Welt wiederherzustellen."
+  },
+  {
+    "id": 24,
+    "title": "Live A Live",
+    "releaseYear": 1994,
+    "developer": "Square",
+    "publisher": "Square",
+    "platforms": [
+      "Super Nintendo",
+      "Nintendo Switch",
+      "Windows",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "subgenre": "Episodisches JRPG",
+    "combatSystem": "Taktische rundenbasierte Kämpfe auf einem Raster",
+    "setting": "Mehrere Epochen und Schauplätze",
+    "multiplayer": false,
+    "description": "Sieben zunächst unabhängige Geschichten in unterschiedlichen Zeitaltern und Genres laufen auf ein gemeinsames Finale zu."
+  },
+  {
+    "id": 25,
+    "title": "EarthBound",
+    "releaseYear": 1994,
+    "developer": "Ape Inc. und HAL Laboratory",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Super Nintendo",
+      "Wii U",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Modernes Comedy-JRPG",
+    "combatSystem": "Rundenbasiert",
+    "setting": "Die moderne Welt Eagleland",
+    "multiplayer": false,
+    "description": "Ness und seine Freunde ziehen durch eine ungewöhnliche moderne Welt, um eine außerirdische Bedrohung aufzuhalten."
+  },
+  {
+    "id": 26,
+    "title": "Suikoden II",
+    "releaseYear": 1998,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "platforms": [
+      "PlayStation",
+      "Windows",
+      "PlayStation Portable"
+    ],
+    "subgenre": "Politisches Fantasy-JRPG",
+    "combatSystem": "Rundenbasiert, Duelle und große Armeeschlachten",
+    "setting": "Dunan-Region",
+    "multiplayer": false,
+    "description": "Zwei Jugendfreunde geraten in einen Krieg und erleben, wie Loyalität und Macht ihre Heimat verändern."
+  },
+  {
+    "id": 27,
+    "title": "Golden Sun",
+    "releaseYear": 2001,
+    "developer": "Camelot Software Planning",
+    "publisher": "Nintendo",
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "subgenre": "Fantasy-JRPG",
+    "combatSystem": "Rundenbasiert mit Dschinn- und Beschwörungssystem",
+    "setting": "Weyard",
+    "multiplayer": false,
+    "description": "Isaac und andere Adepten versuchen, die Freisetzung der Alchemie und eine drohende Katastrophe zu verhindern."
+  },
+  {
+    "id": 28,
+    "title": "The World Ends with You",
+    "releaseYear": 2007,
+    "developer": "Jupiter",
+    "publisher": "Square Enix",
+    "platforms": [
+      "Nintendo DS",
+      "Android",
+      "iOS",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Urban-Fantasy-JRPG",
+    "combatSystem": "Echtzeit-Action mit Pins und psychischen Fähigkeiten",
+    "setting": "Shibuya, Tokio",
+    "multiplayer": false,
+    "description": "Neku muss in einem geheimnisvollen Spiel ums Überleben Aufgaben erfüllen und seine Mitmenschen besser verstehen lernen."
+  },
+  {
+    "id": 29,
+    "title": "Ys VIII: Lacrimosa of Dana",
+    "releaseYear": 2016,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "platforms": [
+      "PlayStation Vita",
+      "PlayStation 4",
+      "Windows",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Action-JRPG",
+    "combatSystem": "Echtzeit-Action mit Charakterwechseln",
+    "setting": "Die Insel Seiren",
+    "multiplayer": false,
+    "description": "Adol Christin strandet mit Überlebenden auf einer geheimnisvollen Insel und erkundet deren Vergangenheit."
+  },
+  {
+    "id": 30,
+    "title": "Kingdom Hearts II",
+    "releaseYear": 2005,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "subgenre": "Action-RPG",
+    "combatSystem": "Echtzeit-Action",
+    "setting": "Disney- und Final-Fantasy-inspirierte Welten",
+    "multiplayer": false,
+    "description": "Sora, Donald und Goofy reisen durch verschiedene Welten und stellen sich der Organisation XIII."
+  },
+  {
+    "id": 31,
+    "title": "Ni no Kuni: Der Fluch der Weißen Königin",
+    "releaseYear": 2011,
+    "developer": "Level-5",
+    "publisher": "Bandai Namco Games",
+    "platforms": [
+      "Nintendo DS",
+      "PlayStation 3",
+      "Windows",
+      "Nintendo Switch",
+      "PlayStation 4"
+    ],
+    "subgenre": "Fantasy-JRPG",
+    "combatSystem": "Echtzeitnah mit sammelbaren Vertrauten",
+    "setting": "Eine magische Parallelwelt",
+    "multiplayer": false,
+    "description": "Oliver reist in eine magische Welt, um seine Mutter zu retten, und schließt Freundschaft mit ungewöhnlichen Wesen."
+  },
+  {
+    "id": 32,
+    "title": "Shin Megami Tensei V: Vengeance",
+    "releaseYear": 2024,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "platforms": [
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Dämonen-JRPG",
+    "combatSystem": "Rundenbasiert mit Press-Turn-System",
+    "setting": "Postapokalyptisches Tokio und Da'at",
+    "multiplayer": false,
+    "description": "Ein Schüler wird zu einem Nahobino und muss in einem Konflikt zwischen göttlichen und dämonischen Mächten seinen Weg finden."
+  },
+  {
+    "id": 33,
+    "title": "Disgaea 5: Alliance of Vengeance",
+    "releaseYear": 2015,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Windows"
+    ],
+    "subgenre": "Taktisches Comedy-JRPG",
+    "combatSystem": "Rundenbasierte Rasterkämpfe",
+    "setting": "Verschiedene Netherworlds",
+    "multiplayer": false,
+    "description": "Kriegsfürst Killia verbündet sich mit Dämonenfürsten, um gegen den tyrannischen Void Dark vorzugehen."
+  },
+  {
+    "id": 34,
+    "title": "Valkyria Chronicles",
+    "releaseYear": 2008,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "platforms": [
+      "PlayStation 3",
+      "Windows",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Taktisches RPG",
+    "combatSystem": "Rundenbasierte Strategie mit direkter Einheitensteuerung",
+    "setting": "Fiktives Europa im Stil der 1930er-Jahre",
+    "multiplayer": false,
+    "description": "Squad 7 verteidigt das neutrale Gallia gegen die Invasion des Imperiums."
+  },
+  {
+    "id": 35,
+    "title": "Radiant Historia",
+    "releaseYear": 2010,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "platforms": [
+      "Nintendo DS",
+      "Nintendo 3DS"
+    ],
+    "subgenre": "Zeitreise-JRPG",
+    "combatSystem": "Rundenbasiert mit taktischem Gegner-Raster",
+    "setting": "Vanhalla und die Wüste Sandsea",
+    "multiplayer": false,
+    "description": "Stocke erhält ein Buch, mit dem er zwischen Zeitlinien wechseln kann, um eine drohende Katastrophe abzuwenden."
+  },
+  {
+    "id": 36,
+    "title": "Lunar: Silver Star Story Complete",
+    "releaseYear": 1996,
+    "developer": "Game Arts",
+    "publisher": "Kadokawa Shoten und Working Designs (Nordamerika)",
+    "platforms": [
+      "Sega Saturn",
+      "PlayStation"
+    ],
+    "subgenre": "Klassisches Fantasy-JRPG",
+    "combatSystem": "Rundenbasiert",
+    "setting": "Die Welt Lunar",
+    "multiplayer": false,
+    "description": "Alex träumt davon, Drachenmeister zu werden, und begibt sich mit seinen Freunden auf ein Abenteuer."
+  },
+  {
+    "id": 37,
+    "title": "Grandia",
+    "releaseYear": 1997,
+    "developer": "Game Arts",
+    "publisher": "ESP Software",
+    "platforms": [
+      "Sega Saturn",
+      "PlayStation",
+      "Windows",
+      "Nintendo Switch"
+    ],
+    "subgenre": "Abenteuer-JRPG",
+    "combatSystem": "Rundenbasiert mit Zeitbalken und Positionierung",
+    "setting": "Eine Fantasy-Welt voller Ruinen und Entdeckungen",
+    "multiplayer": false,
+    "description": "Justin und seine Freunde folgen Hinweisen auf eine alte Zivilisation und reisen über unbekannte Kontinente."
+  },
+  {
+    "id": 38,
+    "title": "Valkyrie Profile",
+    "releaseYear": 1999,
+    "developer": "tri-Ace",
+    "publisher": "Enix",
+    "platforms": [
+      "PlayStation",
+      "PlayStation Portable"
+    ],
+    "subgenre": "Mythologisches JRPG",
+    "combatSystem": "Rundenbasiert mit Echtzeit-Eingaben für Gruppenmitglieder",
+    "setting": "Nordisch inspirierte Mythologie",
+    "multiplayer": false,
+    "description": "Die Walküre Lenneth sammelt die Seelen gefallener Krieger für den bevorstehenden Krieg der Götter."
+  },
+  {
+    "id": 39,
+    "title": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "releaseYear": 2019,
+    "developer": "Gust",
+    "publisher": "Koei Tecmo",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Windows"
+    ],
+    "subgenre": "Crafting-JRPG",
+    "combatSystem": "Echtzeitnahes rundenbasiertes ATB-System",
+    "setting": "Kurken Island und Umgebung",
+    "multiplayer": false,
+    "description": "Ryza entdeckt die Alchemie und erlebt mit ihren Freunden ein Abenteuer, das ihr Leben auf der Insel verändert."
+  },
+  {
+    "id": 40,
+    "title": "Like a Dragon: Infinite Wealth",
+    "releaseYear": 2024,
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Windows",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "subgenre": "Modernes Comedy-Drama-JRPG",
+    "combatSystem": "Rundenbasiert mit dynamischer Positionierung",
+    "setting": "Yokohama und Hawaii",
+    "multiplayer": false,
+    "description": "Ichiban Kasuga und Kazuma Kiryu treffen in Hawaii auf neue Verbündete und eine Verschwörung, die ihre Vergangenheit berührt."
+  },
+  {
+    "id": 1000,
+    "title": "Webdev 1",
+    "releaseYear": 2026,
+    "developer": "Ihr",
+    "publisher": "Damago",
+    "platforms": [
+      "Alle"
+    ],
+    "subgenre": "Nerd",
+    "combatSystem": "Keystroke based evenrdriven exploitation",
+    "setting": "Klassenzimmer",
+    "multiplayer": true,
+    "description": "Hirne müssen mit Wissen gefüllt werden."
+  }
+]
